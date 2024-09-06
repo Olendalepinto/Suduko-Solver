@@ -10,7 +10,7 @@ To run the **Sudoku Solver with wxWidgets** project on GitHub, follow these step
   - Go to GitHub and create a new repository for your project.
   - Clone the repository locally using the command:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Olendalepinto/Suduko-Solver.git
     ```
   - Copy all your project files (C++ source files and the `CMakeLists.txt` or `Makefile` if using one) into the cloned repository directory.
 
